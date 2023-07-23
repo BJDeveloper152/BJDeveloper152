@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BJDeveloper152
-- 👀 I’m interested game dev
+- 👀 I’m interested  in game dev
 - 🌱 I’m currently learning C# code
 - 🆕 I'm working on a video game
 
